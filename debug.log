@@ -1,0 +1,20 @@
+[1115/131623.265:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1115/131623.265:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1115/131623.265:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1115/131623.265:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1115/131623.265:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1115/132623.267:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1115/132623.268:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1115/132623.268:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1115/132623.268:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1115/132623.268:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1115/132623.269:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Paul Chege\AppData\Local\Google\Chrome\User Data\Crashpad\reports\df8d074f-8d07-4828-a405-beca769fa499.dmp: The system cannot find the file specified. (0x2)
+[1115/132623.269:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Paul Chege\AppData\Local\Google\Chrome\User Data\Crashpad\reports\c39c7a45-4cea-44e7-9753-4d3c3fa8e9ed.dmp: The system cannot find the file specified. (0x2)
+[1115/132623.269:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Paul Chege\AppData\Local\Google\Chrome\User Data\Crashpad\reports\261383e6-95b6-4071-b3d7-46c80d98ac3d.dmp: The system cannot find the file specified. (0x2)
+[1115/132623.270:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Paul Chege\AppData\Local\Google\Chrome\User Data\Crashpad\reports\6ad0b721-ca42-421c-9145-ed1dc4cd14e1.dmp: The system cannot find the file specified. (0x2)
+[1115/132623.270:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Paul Chege\AppData\Local\Google\Chrome\User Data\Crashpad\reports\8a27fd9d-e256-4381-b9c4-70fe161b3e62.dmp: The system cannot find the file specified. (0x2)
+[1115/132623.270:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1117/123701.227:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1205/173538.176:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1208/164743.198:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1223/225659.228:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
